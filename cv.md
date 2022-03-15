@@ -134,7 +134,29 @@ My Web Development
 
 My Web Applications
 
-| ![Web Audio](./assets/images/webaudio32.jpg) | ![Random Jokes](./assets/images/bandb1234.jpg) | ![Web JS Game](./assets/images/huha123.jpg) |
+| ![Web Audio](./assets/images/webaudio12.jpg) | ![Random Jokes](./assets/images/bandb1234.jpg) | ![Web JS Game](./assets/images/huha123.jpg) |
 | :---: | :---: | :---: | :---: |
 | [Web Audio](https://junproger.github.io/js30audio/) | [Random Jokes](https://junproger.github.io/jokes30js/) | [Web JS Game](https://junproger.github.io/js30game3/) |
 | [GitHub](https://github.com/junproger/js30audio) | [GitHub](https://github.com/junproger/jokes30js) | [GitHub](https://github.com/junproger/js30game3) |
+
+## Education studies
+
+- **The Rolling Scopes School: JavaScript/Front-End Course, present;**
+
+![JS/FE Pre-School](./assets/images/jsfepreschool23.jpg)
+
+- The Rolling Scopes School: JavaScript/Front-End Pre-School, 2021 - 2022;
+
+- The "Professional" Education Center: Modern Frontend Development, 2021;
+
+- Technology and Management State University: Economics and Management, 2014;
+
+- Academy of the Corporate Systems: Linux Administration Basics, 2008;
+
+## English levels
+
+Reading / Writing
+: Intermediate / B1
+
+Listening / Speaking
+: Pre-intermediate / A2
