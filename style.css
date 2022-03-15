@@ -1,0 +1,53 @@
+/* css for junproger cv */
+html,
+body {
+	-webkit-box-sizing: border-box;
+		-moz-box-sizing: border-box;
+			box-sizing: border-box;
+}
+*, *:before, *:after {
+	-webkit-box-sizing: inherit;
+		-moz-box-sizing: inherit;
+			box-sizing: inherit;
+}
+html,
+body {
+	scroll-behavior: smooth;
+	font-family: 'Inter', sans-serif;
+	font-weight: normal;
+	font-style: normal;
+	background: black;
+	color: white;
+}
+html,
+body,
+header,
+footer,
+main {
+	display: block;
+	width: 100vw;
+	padding: 0 0;
+	border: none;
+	margin: 0 0;
+}
+nav,
+div,
+h1,
+h2,
+p {
+	display: block;
+	padding: 0 0;
+	border: none;
+	margin: 0 0;
+}
+.body {
+	display: block;
+	position: static;
+	max-width: 100vw;
+	min-height: 100vh;
+	font-family: sans-serif;
+	font-weight: normal;
+	font-style: normal;
+	background: black;
+	color: white;
+}
