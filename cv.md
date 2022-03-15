@@ -4,6 +4,8 @@
 
 ![Jun Proger #2774](./assets/avatars/charisma.gif)
 
+![CodeWars Badge](https://www.codewars.com/users/junproger/badges/micro)
+
 ## Contacts
 
 - Github: [@junproger](https://github.com/junproger/)
@@ -11,8 +13,6 @@
 - Hackr.io: [@junproger](https://hackr.io/junproger)
 
 - Codewars: [@junproger](https://www.codewars.com/users/junproger)
-
-![CodeWars Badge](https://www.codewars.com/users/junproger/badges/small)
 
 - Discord: ```Jun Proger #2774```
 
