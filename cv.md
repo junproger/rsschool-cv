@@ -127,14 +127,14 @@ ajax.send();
 
 My Web Development
 
-| ![Best Coffee](./assets/images/bestcoffee.jpg) | ![Pizza-Shop](./assets/images/pizzashop.jpg) | ![In Japan](./assets/images/injapan.jpg) | ![Junproger CV](./assets/images/junprogcv.jpg) | ![Landing page](./assets/images/landing123.jpg) |
+| ![Best Coffee](./assets/images/bestcoffee.jpg) | ![Pizza-Shop](./assets/images/pizzashop.jpg) | ![In Japan](./assets/images/injapan.jpg) | ![Landing page](./assets/images/landing123.jpg) |
 | :---: | :---: | :---: | :---: | :---: |
-| [Best Coffee](http://end407.byethost7.com/olders/jscoffee/jscoffee.html) | [Pizza-Shop](http://end407.byethost7.com/olders/cardclass/cardclass.html) | [In Japan](http://end407.byethost7.com/injapan/injapan.html) | [Junproger CV](https://junproger.github.io/preschool-cv/) | [Landing page](https://junproger.github.io/landing/) |
-| [GitHub](https://github.com/junproger/jscoffee) | [GitHub](https://github.com/junproger/pizzashop) | [GitHub](https://github.com/junproger/injapan) | [GitHub](https://github.com/junproger/preschool-cv) | [GitHub](https://github.com/junproger/landing) |
+| [Best Coffee](http://end407.byethost7.com/olders/jscoffee/jscoffee.html) | [Pizza-Shop](http://end407.byethost7.com/olders/cardclass/cardclass.html) | [In Japan](http://end407.byethost7.com/injapan/injapan.html) | [Landing page](https://junproger.github.io/landing/) |
+| [GitHub](https://github.com/junproger/jscoffee) | [GitHub](https://github.com/junproger/pizzashop) | [GitHub](https://github.com/junproger/injapan) | [GitHub](https://github.com/junproger/landing) |
 
 My Web Applications
 
-| ![Simple ToDo](./assets/images/todo123.jpg) | ![Web Audio](./assets/images/webaudio32.jpg) | ![Random Jokes](./assets/images/bandb1234.jpg) | ![Web JS Game](./assets/images/huha123.jpg) |
+| ![Web Audio](./assets/images/webaudio12.jpg) | ![Random Jokes](./assets/images/bandb1234.jpg) | ![Web JS Game](./assets/images/huha123.jpg) |
 | :---: | :---: | :---: | :---: |
-| [Simple ToDo](http://end407.byethost7.com/listtodo/todoapp.htm) | [Web Audio](https://junproger.github.io/js30audio/) | [Random Jokes](https://junproger.github.io/jokes30js/) | [Web JS Game](https://junproger.github.io/js30game3/) |
-| [GitHub](https://github.com/junproger/todoapp) | [GitHub](https://github.com/junproger/js30audio) | [GitHub](https://github.com/junproger/jokes30js) | [GitHub](https://github.com/junproger/js30game3) |
+| [Web Audio](https://junproger.github.io/js30audio/) | [Random Jokes](https://junproger.github.io/jokes30js/) | [Web JS Game](https://junproger.github.io/js30game3/) |
+| [GitHub](https://github.com/junproger/js30audio) | [GitHub](https://github.com/junproger/jokes30js) | [GitHub](https://github.com/junproger/js30game3) |
