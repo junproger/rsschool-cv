@@ -12,7 +12,7 @@
 
 - Codewars: [@junproger](https://www.codewars.com/users/junproger)
 
-- ![CodeWars Badge](https://www.codewars.com/users/junproger/badges/micro)
+![CodeWars Badge](https://www.codewars.com/users/junproger/badges/small)
 
 - Discord: ```Jun Proger #2774```
 
