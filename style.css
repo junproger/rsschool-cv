@@ -169,6 +169,9 @@ a:visited {
 .source-code {
     background: #111;
 }
+.certificate {
+	width: 60%;
+}
 .flex-footer {
     display: flex;
     padding-top: 25px;
