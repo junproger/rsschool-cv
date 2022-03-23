@@ -91,14 +91,14 @@ a:visited {
     box-shadow: 0 0 3px grey;
 }
 .header-menu li a {
-    color: darkgrey;
+    color: lightgrey;
     text-decoration: none;
 }
 .header-menu li:hover {
     background: #011;
 }
 .header-menu li a:hover {
-    color: lightgrey;
+    color: khaki;
 }
 .header-title {
     padding: 15px 20px 25px;
