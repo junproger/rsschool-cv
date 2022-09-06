@@ -139,10 +139,10 @@ function getChange() {
     let widthTrayChange = trayRandom(150, sizeTrayChange.offsetWidth);
         console.log('widthTrayChange: ' + widthTrayChange);
         if (outchanges &lt; 9) return false;
-            else if (outchanges >= 200) changecoin = 200;
-            else if (outchanges >= 100) changecoin = 100;
-            else if (outchanges >= 50) changecoin = 50;
-            else if (outchanges >= 10) changecoin = 10;
+            else if (outchanges &gt;= 200) changecoin = 200;
+            else if (outchanges &gt;= 100) changecoin = 100;
+            else if (outchanges &gt;= 50) changecoin = 50;
+            else if (outchanges &gt;= 10) changecoin = 10;
             document.querySelector('#trayChange').innerHTML += `&lt;img alt="img" onclick='this.style.display="none";' style="left:${widthTrayChange}px; " class="coinChanges" src="${changecoin}_rubles.png"&gt;`;
             console.log('changecoin = ' + changecoin);
             outchanges -= changecoin;
