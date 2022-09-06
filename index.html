@@ -28,7 +28,9 @@
 			<div class="header-title">
 				<div class="title-avatars">
 					<p>
-						<img class="img-avatars" src="./assets/avatars/vaultboy.jpg" width="280" alt="Sergey Tokarev (@junproger)"> <br /> <img width="280" src="https://www.codewars.com/users/junproger/badges/small" alt="junproger codewars">
+						<img class="img-avatars" src="./assets/avatars/vaultboy.jpg" width="280" alt="Sergey Tokarev (@junproger)">
+						<br>
+						<img width="280" src="https://www.codewars.com/users/junproger/badges/small" alt="junproger codewars">
 					</p>
 				</div>
 				<div class="title-fullname">
@@ -94,8 +96,11 @@
 					<p><strong><code>JAVASCRIPT</code></strong> &#x2B50; &#x2B50; &#x2B50;  &#x2B50;</p>
 				  </li>
 				  <li>
-					<p><strong><code>AJAX + JSON</code></strong> &#x2B50; &#x2B50; &#x2B50;</p>
+					<p><strong><code>AJAX + JSON</code></strong> &#x2B50; &#x2B50; &#x2B50; &#x2B50;</p>
 				  </li>
+				  <li>
+						<p><strong><code>REACT + MOBX</code></strong> &#x2B50; &#x2B50; &#x2B50;</p>
+						</li>
 				  <li>
 					<p><strong><code>PHP + MYSQL</code></strong> &#x2B50; &#x2B50;</p>
 				  </li>
@@ -136,10 +141,10 @@ function getChange() {
     let widthTrayChange = trayRandom(150, sizeTrayChange.offsetWidth);
         console.log('widthTrayChange: ' + widthTrayChange);
         if (outchanges &lt; 9) return false;
-            else if (outchanges >= 200) changecoin = 200;
-            else if (outchanges >= 100) changecoin = 100;
-            else if (outchanges >= 50) changecoin = 50;
-            else if (outchanges >= 10) changecoin = 10;
+            else if (outchanges &gt;= 200) changecoin = 200;
+            else if (outchanges &gt;= 100) changecoin = 100;
+            else if (outchanges &gt;= 50) changecoin = 50;
+            else if (outchanges &gt;= 10) changecoin = 10;
             document.querySelector('#trayChange').innerHTML += `&lt;img alt="img" onclick='this.style.display="none";' style="left:${widthTrayChange}px; " class="coinChanges" src="${changecoin}_rubles.png"&gt;`;
             console.log('changecoin = ' + changecoin);
             outchanges -= changecoin;
@@ -204,7 +209,7 @@ async function regForm(form) {
 							<a href="http://end407.byethost7.com/olders/jscoffee/jscoffee.html">Best Coffee</a>
 						</h3>
 						<p>
-							<img src="./assets/images/bestcoffee.jpg" alt="Best Coffee" />
+							<img src="./assets/images/bestcoffee.jpg" alt="Best Coffee">
 						</p>
 						<p>
 							<a href="https://github.com/junproger/jscoffee">Source Code</a>
@@ -215,7 +220,7 @@ async function regForm(form) {
 							<a href="http://end407.byethost7.com/olders/cardclass/cardclass.html">Pizza-Shop</a>
 						</h3>
 						<p>
-							<img src="./assets/images/pizzashop.jpg" alt="Pizza-Shop" />
+							<img src="./assets/images/pizzashop.jpg" alt="Pizza-Shop">
 						</p>
 						<p>
 							<a href="https://github.com/junproger/pizzashop">Source Code</a>
@@ -223,21 +228,10 @@ async function regForm(form) {
 					</div>
 					<div class="project-item">
 						<h3>
-							<a href="http://end407.byethost7.com/injapan/injapan.html">In Japan</a>
-						</h3>
-						<p>
-							<img src="./assets/images/injapan.jpg" alt="In Japan" />
-						</p>
-						<p>
-							<a href="https://github.com/junproger/injapan">Source Code</a>
-						</p>
-					</div>
-					<div class="project-item">
-						<h3>
 							<a href="https://junproger.github.io/rsschool-cv/">Junproger CV</a>
 						</h3>
 						<p>
-							<img src="./assets/images/junprogcv.jpg" alt="Junproger CV" />
+							<img src="./assets/images/junprogcv.jpg" alt="Junproger CV">
 						</p>
 						<p>
 							<a href="https://github.com/junproger/rsschool-cv">Source Code</a>
@@ -248,10 +242,21 @@ async function regForm(form) {
 							<a href="https://junproger.github.io/landing/">Landing page</a>
 						</h3>
 						<p>
-							<img src="./assets/images/landing123.jpg" alt="Landing page" />
+							<img src="./assets/images/landing123.jpg" alt="Landing page">
 						</p>
 						<p>
 							<a href="https://github.com/junproger/landing">Source Code</a>
+						</p>
+					</div>
+					<div class="project-item">
+						<h3>
+							<a href="https://junproger.github.io/shelter/pages/main/index.html">Shelter web</a>
+						</h3>
+						<p>
+							<img src="./assets/images/shelter1234.jpg" alt="Website with slider and paging">
+						</p>
+						<p>
+							<a href="https://github.com/junproger/shelter">Source Code</a>
 						</p>
 					</div>
 				</div>
@@ -264,7 +269,7 @@ async function regForm(form) {
 							<a href="https://junproger.github.io/js30audio/">Web JS Audio</a>
 						</h3>
 						<p>
-							<img width="280" src="./assets/images/webaudio12.jpg" alt="Web JS Audio" />
+							<img width="280" src="./assets/images/webaudio12.jpg" alt="Web JS Audio">
 						</p>
 						<p>
 							<a href="https://github.com/junproger/js30audio">Source Code</a>
@@ -275,7 +280,7 @@ async function regForm(form) {
 							<a href="https://junproger.github.io/jokes30js/">Random Jokes</a>
 						</h3>
 						<p>
-							<img width="280" src="./assets/images/bandb1234.jpg" alt="Random Jokes" />
+							<img width="280" src="./assets/images/bandb1234.jpg" alt="Random Jokes">
 						</p>
 						<p>
 							<a href="https://github.com/junproger/jokes30js">Source Code</a>
@@ -286,7 +291,7 @@ async function regForm(form) {
 							<a href="https://junproger.github.io/js30game3/">Web JS Game</a>
 						</h3>
 						<p>
-							<img width="280" src="./assets/images/huha123.jpg" alt="Web JS Game" />
+							<img width="280" src="./assets/images/huha123.jpg" alt="Web JS Game">
 						</p>
 						<p>
 							<a href="https://github.com/junproger/js30game3">Source Code</a>
@@ -303,7 +308,7 @@ async function regForm(form) {
 					<p><strong>The Rolling Scopes School: JavaScript/Front-End Course, present;</strong></p>
 				  </li>
 				  <li>
-					<p><img src="./assets/images/jsfepreschool23.jpg" alt="rs-school certificate"></p>
+					<p><img class="certificate" src="./assets/images/jsfepreschool23.jpg" alt="rs-school certificate"></p>
 				  </li>
 				  <li>
 					<p><strong>The Rolling Scopes School: JavaScript/Front-End Pre-School, 2021 - 2022;</strong></p>
